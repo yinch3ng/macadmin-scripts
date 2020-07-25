@@ -1,3 +1,8 @@
+https://apple.stackexchange.com/questions/311763/how-do-i-download-macos-high-sierra-for-offline-install
+```
+sudo python /path_to/installinstallmacos.py  --catalogurl https://swscan.apple.com/content/catalogs/others/index-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog --raw
+```
+
 ### macadmin-scripts
 
 Some scripts that might be of use to macOS admins. Might be related to Munki;
